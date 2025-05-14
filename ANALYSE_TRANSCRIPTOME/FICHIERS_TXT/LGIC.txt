@@ -1,0 +1,106 @@
+LOC409238	43 kDa receptor-associated protein of the synapse homolog, transcript variant X8
+LOC725711	activin receptor type-1, transcript variant X2
+LOC412471	activin receptor type-2A, transcript variant X2
+LOC550659	adiponectin receptor protein, transcript variant X1
+LOC413582	Allatostatin A receptor, transcript variant X5
+LOC412883	Allatostatin C receptor, transcript variant X2
+LOC551743	angiopoietin-1 receptor
+LOC411264	aryl hydrocarbon receptor protein 1, transcript variant X1
+LOC724571	atrial natriuretic peptide receptor 1, transcript variant X1
+LOC726069	atrial natriuretic peptide receptor 1, transcript variant X2
+LOC724195	B-cell receptor CD22, transcript variant X4
+LOC551768	B-cell receptor-associated protein 31
+LOC413613	B-cell receptor-associated protein 31
+LOC408442	bone morphogenetic protein receptor type-1B, transcript variant X3
+LOC413895	bone morphogenetic protein receptor type-2, transcript variant X3
+LOC726393	capa receptor-like GPCR
+LOC726935	cardioacceleratory peptide receptor, transcript variant X2
+LOC102656473	Canab-R
+LOC410654	cholecystokinin receptor-like
+LOC551046	Lgic
+LOC412830	LGIc5
+LOC411212	discoidin domain-containing receptor 2
+LOC411213	discoidin domain-containing receptor 2, transcript variant X1
+LOC408922	discoidin domain-containing receptor 2, transcript variant X1
+LOC411201	discoidin domain-containing receptor 2, transcript variant X3
+LOC413829	diuretic hormone receptor, transcript variant X3
+LOC724495	ecdysis triggering hormone receptor, transcript variant X6
+LOC406124	GRD/LCCH3
+LOC725184	GRD/LCCH3
+LOC411220	Glu AMPA
+LOC102653640	Glu R1
+LOC100576135	Glu R1
+LOC100577496	Glu R1
+LOC551704	Glu R1
+LOC410788	Glu Kainate
+LOC102653800	Glu Kainate
+LOC411050	Glu Kainate
+LOC412993	Glu Kainate
+LOC100576097	Glu R1?
+LOC408645	Glu Kainate 
+LOC408965	glutamate receptor-interacting protein 1
+LOC100576563	growth factor receptor-bound protein 14, transcript variant X5
+LOC100576167	Gust-R
+LOC725483	Gust-R
+LOC413684	Gust-R
+LOC727431	Gust-R
+LOC551680	HisR2
+LOC410925	hormone receptor 4, transcript variant X9
+LOC725841	hyaluronan mediated motility receptor, transcript variant X1
+LOC408438	insulin receptor substrate 1-B, transcript variant X3
+LOC411297	insulin-like peptide receptor, transcript variant X1
+LOC727346	ionotropic receptor 21a, transcript variant X2
+LOC412949	GluR
+LOC409777	GluR
+LOC100578352	ionotropic receptor 75a-like
+LOC410623	GluR
+LOC100576612	leptin receptor gene-related protein, transcript variant X2
+LOC551621	leucine rich repeat G protein coupled receptor
+LOC410825	leucine-rich repeat and immunoglobulin-like domain-containing nogo receptor-interacting protein 3
+LOC410238	leukocyte receptor cluster member 1
+LOC725596	leukocyte receptor cluster member 8 homolog, transcript variant X2
+LOC408718	leukocyte tyrosine kinase receptor, transcript variant X4
+LOC412401	lipophorin receptor, transcript variant X5
+LOC552297	low density lipoprotein receptor adapter protein 1-B, transcript variant X1
+LOC552358	low-density lipoprotein receptor-related protein 2, transcript variant X1
+LOC100576279	low-density lipoprotein receptor-related protein 2, transcript variant X2
+LOC725289	low-density lipoprotein receptor-related protein 2, transcript variant X5
+LOC551021	low-density lipoprotein receptor-related protein 6, transcript variant X3
+LOC411738	lutropin-choriogonadotropic hormone receptor, transcript variant X2
+LOC412057	MAM and LDL-receptor class A domain-containing protein 1
+LOC725670	mast/stem cell growth factor receptor Kit, transcript variant X2
+LOC107964335	melatonin receptor type 1B-B-like
+LOC413164	membrane-associated progesterone receptor component 1
+LOC725720	TyrRk
+LOC410246	netrin receptor UNC5B
+LOC408264	netrin receptor UNC5C, transcript variant X9
+LOC413527	neuromedin-U receptor 1-like
+LOC408525	nAChR
+LOC413550	neuropeptide CCHamide-2 receptor
+LOC102653795	neuropeptide Y receptor type 1
+LOC411672	neuropeptides capa receptor-like protein
+LOC412818	Glu_NMDA_NR2
+LOC408777	no mechanoreceptor potential C, transcript variant X5
+LOC726450	nuclear hormone receptor FTZ-F1
+LOC724473	orexin receptor type 2-like, transcript variant X2
+LOC726639	oxidized low-density lipoprotein receptor 1, transcript variant X1
+LOC726953	PTH-R
+LOC412439	PDF receptor
+LOC724299	peripheral-type benzodiazepine receptor-associated protein 1, transcript variant X1
+LOC413880	peroxisomal targeting signal 1 receptor
+LOC551231	phosphatidate cytidylyltransferase, photoreceptor-specific
+LOC413558	photoreceptor-specific nuclear receptor, transcript variant X2
+LOC727324	prolactin-releasing peptide receptor
+LOC726543	proline-rich nuclear receptor coactivator 2
+LOC724237	prostaglandin E2 receptor EP3 subtype, transcript variant X3
+LOC413299	proteasomal ubiquitin receptor ADRM1, transcript variant X2
+LOC412667	proto-oncogene tyrosine-protein kinase receptor Ret, transcript variant X1
+LOC412968	putative epidermal cell surface receptor, transcript variant X2
+LOC102654049	Gust-R
+LOC102655663	Gust-R
+LOC100577582	putative mannose 6-phosphate receptor-like protein C530.09c, transcript variant X2
+LOC551571	pyrokinin-like receptor 1
+LOC726755	pyrokinin-like receptor 2
+LOC410755	TAR2-R
+LOC551795	xenotropic and polytropic retrovirus receptor 1 homolog
+LOC411811	xenotropic and polytropic retrovirus receptor 1-like, transcript variant X1

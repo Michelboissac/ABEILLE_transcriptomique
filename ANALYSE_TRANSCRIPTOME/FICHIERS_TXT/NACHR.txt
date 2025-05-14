@@ -1,0 +1,11 @@
+nAChRa1	nAChRa1
+nAChRa2	nAChRa2
+nAChRa3	nAChRa3
+nAChRa4	nAChRa4
+LOC408525	nAChRa5
+nAChRa6	nAChRa6
+nAChRa7	nAChRa7
+nAChRa8	nAChRa8
+nAChRa9	nAChRa9
+nAChRb1	nAChRb1
+nAChRb2	nAChRb2

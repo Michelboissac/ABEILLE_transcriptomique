@@ -1,0 +1,98 @@
+LOC552108	adhesion G protein-coupled receptor A3, transcript variant X1
+LOC726331	OctoR-a2
+LOC726130	Beta2-R
+LOC102656473	CB1 cannabinoid receptor-interacting protein 1
+LOC408693	EGF-R8
+LOC727227	EGF-R15
+LOC100577393	EGF-R4
+LOC413200	fibroblast growth factor receptor homolog 1, transcript variant X2
+LOC727079	fibroblast growth factor receptor substrate 2
+LOC724602	FMRFamide receptor
+LOC413197	G protein-coupled receptor kinase 1, transcript variant X2
+LOC410632	G protein-coupled receptor kinase 2, transcript variant X1
+LOC113218647	GABA-B R
+LOC410979	GABA-B R
+LOC410140	GABA-B R
+LOC408965	glutamate receptor-interacting protein 1
+LOC411102	G-protein coupled receptor 143, transcript variant X2
+LOC413040	G-protein coupled receptor 52, transcript variant X3
+LOC102655521	GPCR-
+LOC100577758	GPCR-
+LOC409159	GPCR-
+LOC100577142	GPCR-
+LOC724780	GPCR-
+LOC724760	GPCR-
+LOC113219298	GPCR-
+LOC551621	leucine rich repeat G protein coupled receptor
+LOC410825	leucine-rich repeat and immunoglobulin-like domain-containing nogo receptor-interacting protein 3
+LOC412057	MAM and LDL-receptor class A domain-containing protein 1
+LOC551424	nuclear receptor-binding protein homolog
+LOC413698	OctoR-b1
+LOC412896	OctoRb2
+LOC412994	OctR-b3-b4
+LOC413568	probable G-protein coupled receptor 158
+LOC552761	probable G-protein coupled receptor B0563.6, transcript variant X2
+LOC100578296	probable G-protein coupled receptor B0563.6, transcript variant X4
+LOC100577004	probable G-protein coupled receptor CG31760, transcript variant X4
+LOC724853	probable G-protein coupled receptor Mth-like 1
+LOC100578046	probable G-protein coupled receptor Mth-like 1, transcript variant X1
+LOC102655112	probable G-protein coupled receptor Mth-like 5
+LOC408942	receptor expression-enhancing protein 2, transcript variant X7
+LOC551678	receptor expression-enhancing protein 5, transcript variant X2
+LOC411348	thyroid receptor-interacting protein 11, transcript variant X5
+LOC100578662	cadherin EGF LAG seven-pass G-type receptor 1, transcript variant X1
+LOC412591	CGRP-R
+LOC411760	mGluR
+LOC726424	mGluR
+LOC412299	mAChR
+LOC412011	mAChR
+LOC552108	adhesion G protein-coupled receptor A3, transcript variant X1
+LOC409061	tyrosine kinase receptor Cad96Ca
+LOC413616	tyrosine-protein kinase transmembrane receptor Ror, transcript variant X1
+LOC408312	tyrosine-protein kinase transmembrane receptor Ror2, transcript variant X2
+LOC413303	vascular endothelial growth factor receptor 1, transcript variant X3
+LOC725920	vitellogenin receptor
+LOC551378	toll-like receptor Tollo, transcript variant X3
+LOC100577118	trace amine-associated receptor 9, transcript variant X4
+LOC100577213	tumor necrosis factor receptor superfamily member 4-like
+LOC726958	tumor necrosis factor receptor superfamily member wengen, transcript variant X2
+LOC550930	TGF-beta receptor type-1, transcript variant X10
+LOC411348	thyroid receptor-interacting protein 11, transcript variant X5
+LOC102655356	thyrotropin-releasing hormone receptor
+LOC408754	TNF receptor-associated factor 4, transcript variant X2
+LOC551819	TNF receptor-associated factor 6
+LOC724187	toll-like receptor 4, transcript variant X4
+LOC410229	toll-like receptor 6
+LOC100578966	toll-like receptor 6
+LOC410235	toll-like receptor Tollo
+LOC410231	toll-like receptor Tollo
+LOC100577030	QRFP-like peptide receptor, transcript variant X2
+LOC408942	receptor expression-enhancing protein 2, transcript variant X7
+LOC551678	receptor expression-enhancing protein 5, transcript variant X2
+LOC726312	receptor-binding cancer antigen expressed on SiSo cells
+LOC413596	receptor-type guanylate cyclase gcy-4, transcript variant X3
+LOC724603	receptor-type guanylate cyclase Gyc76C-like
+LOC410417	receptor-type tyrosine-protein phosphatase kappa
+LOC412960	receptor-type tyrosine-protein phosphatase kappa, transcript variant X1
+LOC551375	receptor-type tyrosine-protein phosphatase N2, transcript variant X1
+LOC552228	renin receptor, transcript variant X2
+LOC411614	RYamide receptor, transcript variant X1
+LOC412570	RYamide receptor, transcript variant X2
+LOC100578739	RYamide receptor, transcript variant X6
+LOC413408	scavenger receptor class B member 1
+LOC100577943	scavenger receptor class B member 1
+LOC409228	scavenger receptor class B member 1, transcript variant X2
+LOC412788	scavenger receptor class B member 1, transcript variant X4
+LOC412630	scavenger receptor class B member 1, transcript variant X5
+LOC726535	secretin receptor
+LOC413053	serine-threonine kinase receptor-associated protein
+LOC724225	sex peptide receptor-like
+LOC411542	signal recognition particle receptor subunit alpha homolog
+LOC410469	signal recognition particle receptor subunit beta
+LOC100578939	single Ig IL-1-related receptor
+LOC408987	sortilin-related receptor
+LOC100576543	steroid receptor RNA activator 1, transcript variant X2
+LOC411611	tachykinin-like peptides receptor 99D
+LOC100577285	tail-anchored protein insertion receptor WRB
+LOC113218566	ER lumen protein-retaining receptor
+LOC107965219	feline leukemia virus subgroup C receptor-related protein 2, transcript variant X1
