@@ -1,0 +1,6 @@
+SORTED_BAM_AND_INDEX.GCF_003254395.2_Amel_HAv3.1_genomic.VS.SRR15990919_.name_sorted.fixmate.sorted.bam	bulk_Forager.1
+SORTED_BAM_AND_INDEX.GCF_003254395.2_Amel_HAv3.1_genomic.VS.SRR15990920_.name_sorted.fixmate.sorted.bam	bulk_Forager.2
+SORTED_BAM_AND_INDEX.GCF_003254395.2_Amel_HAv3.1_genomic.VS.SRR15990921_.name_sorted.fixmate.sorted.bam	bulk_Nurse.1
+SORTED_BAM_AND_INDEX.GCF_003254395.2_Amel_HAv3.1_genomic.VS.SRR15990922_.name_sorted.fixmate.sorted.bam	bulk_Nurse.2
+SORTED_BAM_AND_INDEX.GCF_003254395.2_Amel_HAv3.1_genomic.VS.SRR15990923_.name_sorted.fixmate.sorted.bam	bulk_Queen.1
+SORTED_BAM_AND_INDEX.GCF_003254395.2_Amel_HAv3.1_genomic.VS.SRR15990924_.name_sorted.fixmate.sorted.bam	bulk_Queen.2
