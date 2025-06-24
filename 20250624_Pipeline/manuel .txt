@@ -1,0 +1,22 @@
+Etape 1 : Ouvrir Anaconda.navigator et aller dans Home, ouvrir anaconda prompt
+
+Etape2 : Un terminal de commande va s'ouvrir avec conda , taper les lignes de commandes suivantes une par une:
+(faire yes, y ,oui , O, si c'est demandé lors de l'installation)
+
+
+"""
+    conda create -n r451_env 
+    conda activate r451_env 
+    conda install -c conda-forge r-base
+    r
+    install.packages("IRkernel")    #choisir un cran
+    IRkernel::installspec(name = 'ir-r451', displayname = 'R 4.5.1')
+"""
+
+etape 3 : quitter le terminal de commande, aller dans enviornnement, verifier que l'environnement "r451_env" a bien été créer, et cliquer sur l'environnement.
+
+etape 4 :  retrouner sur Home, et installer jupyter notebook, puis lancer le.
+
+etape 5 : Ouvrir le jupyter notebook script.ipynb qui doit etre dans le meme reperotire que le dossier FICHIERS_TXT
+
+etape 6 : lancer le jupyter note book case par case, un dossier OUTPUT va etre créer avec les résultats, graphs, et plot à l'intérieur.
